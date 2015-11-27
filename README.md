@@ -13,3 +13,6 @@ A vagrant box for lapis web framework
 - Openresty 1.9.3.2
 - Luarocks
 - Moonscript
+
+#License
+The lapis-vagrant is open-sourced software licensed under the MIT license
