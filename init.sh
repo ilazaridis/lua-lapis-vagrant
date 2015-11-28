@@ -10,8 +10,7 @@ apt-get install -y libpcre3-dev build-essential libssl-dev sudo libreadline-dev 
 wget http://openresty.org/download/${PKG}.tar.gz
 tar xzf ${PKG}.tar.gz
 cd $PKG
-./configure --prefix=/usr/local/openresty/ \
-    --with-luajit \
+./configure --prefix=/usr/local/openresty --with-luajit
 make
 make install
 
