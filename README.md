@@ -1,9 +1,9 @@
 # lapis-vagrant
-A vagrant box for lapis web framework
+A vagrant box for lapis web framework.
 
-# Install
+# Usage
 - Clone the repository
-- vagrant up
+- `vagrant up`
 - sync folder lapis should have been already created and openresty is up and running on http://localhost:9090
 
 # What is included
@@ -14,5 +14,8 @@ A vagrant box for lapis web framework
 - Luarocks
 - Moonscript
 
+# Suggestions, requests, bugs
+Please submit a ticket and I 'll respond as soon as possible.
+
 #License
-The lapis-vagrant is open-sourced software licensed under the MIT license
+The lapis-vagrant is open-sourced software licensed under the MIT license.
