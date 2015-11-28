@@ -1,5 +1,5 @@
 # lapis-vagrant
-A vagrant box for lapis web framework.
+A vagrant box for lapis web framework.  
 Inspired by https://github.com/voronianski/openresty-lapis-vagrant.
 
 # Usage
