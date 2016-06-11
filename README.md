@@ -12,7 +12,7 @@ Inspired by https://github.com/voronianski/openresty-lapis-vagrant.
 - Ubuntu Trusty 14.04
 - Lua 5.1
 - Lapis
-- Openresty 1.9.7.2 :new:
+- Openresty 1.9.15.1 :new:
 - Luarocks
 - Moonscript
 
