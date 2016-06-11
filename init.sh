@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION=${1:-"1.9.7.2"}
+VERSION=${1:-"1.9.15.1"}
 PKG=ngx_openresty-$VERSION
 
 apt-get update
